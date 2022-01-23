@@ -125,7 +125,7 @@ body {
   top: 0;
   left: 0;
   z-index: 100;
-  background-color: var(--body-color);
+  background-color: var(--base-color);
   width: 100%;
 }
 
@@ -140,7 +140,7 @@ body {
 }
 
 .logo span {
-  color: var(--base-color);
+  color: var(--text-color-light);
 }
 
 .logo-alt span {
